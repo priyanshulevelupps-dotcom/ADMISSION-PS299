@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+admission_ps.db
+data/*.joblib
+data/*.csv
